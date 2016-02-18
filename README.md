@@ -1,4 +1,4 @@
-# advent_one_santas_stairmaster
+# Advent One: Santa' Stairmaster
 
 This project was part of the adventofcode.com code challenge. This is project one. Each project has two parts. This program completes both parts. Instructions from http://adventofcode.com/day/1 for both parts are below.
 
