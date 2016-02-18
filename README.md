@@ -1,6 +1,8 @@
 # Advent One: Santa's Stairmaster
 
-This project was part of the adventofcode.com code challenge. This is project one. Each project has two parts. This program completes both parts. Instructions from http://adventofcode.com/day/1 for both parts are below.
+This project was part of the adventofcode.com code challenge. This is project one. Each project has two parts. This program completes both parts. Run this program by typing: python advent_two.py advent2_text.txt into your terminal. 
+
+Instructions from http://adventofcode.com/day/1 for both parts are below.
 
 --- Day 1: Not Quite Lisp ---
 
